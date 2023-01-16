@@ -11,8 +11,8 @@ import (
 	"io"
 	"sort"
 
+	"github.com/0xkraken/btcd/wire"
 	"github.com/aead/siphash"
-	"github.com/btcsuite/btcd/wire"
 	"github.com/kkdai/bstream"
 )
 
