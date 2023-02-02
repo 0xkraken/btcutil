@@ -3,7 +3,7 @@ module github.com/0xkraken/btcutil
 go 1.18
 
 require (
-	github.com/0xkraken/btcd v0.0.0-20230116045856-133345550285
+	github.com/0xkraken/btcd v0.0.0-20230202034820-16dfb5c8ab08
 	github.com/aead/siphash v1.0.1
 	github.com/davecgh/go-spew v1.1.1
 	github.com/kkdai/bstream v0.0.0-20161212061736-f391b8402d23

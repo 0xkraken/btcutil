@@ -2,6 +2,8 @@ github.com/0xkraken/btcd v0.0.0-20230116043717-687f3d2ce7de h1:BF8GgI0RmnGRL2q3V
 github.com/0xkraken/btcd v0.0.0-20230116043717-687f3d2ce7de/go.mod h1:wYxEJS7AFQVYjUxGGl9upeNJgDF3XqZ9694VJ1LcHYY=
 github.com/0xkraken/btcd v0.0.0-20230116045856-133345550285 h1:3R83haTiyynYuFlmTM599UQB6amiGkPld6Avr5bA4s0=
 github.com/0xkraken/btcd v0.0.0-20230116045856-133345550285/go.mod h1:17TKuG8FTujP0EndhnUVmxznKS3P7scJ837dLSfImpk=
+github.com/0xkraken/btcd v0.0.0-20230202034820-16dfb5c8ab08 h1:kMWVuRPomfXIizsxgq8qATdtZJN+WOw6ASOOWs6u5Ww=
+github.com/0xkraken/btcd v0.0.0-20230202034820-16dfb5c8ab08/go.mod h1:17TKuG8FTujP0EndhnUVmxznKS3P7scJ837dLSfImpk=
 github.com/aead/siphash v1.0.1 h1:FwHfE/T45KPKYuuSAKyyvE+oPWcaQ+CUmFW0bPlM+kg=
 github.com/aead/siphash v1.0.1/go.mod h1:Nywa3cDsYNNK3gaciGTWPwHt0wlpNV15vwmswBAUSII=
 github.com/btcsuite/btclog v0.0.0-20170628155309-84c8d2346e9f h1:bAs4lUbRJpnnkd9VhRV3jjAVU7DJVjMaK+IsvSeZvFo=
